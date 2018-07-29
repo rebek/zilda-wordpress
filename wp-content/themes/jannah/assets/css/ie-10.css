@@ -1,0 +1,9 @@
+.mag-box-title .tie-alignright {
+  width: auto;
+}
+
+@media (max-width: 480px) {
+  .mag-box-title .tie-alignright .mag-box-filter-links {
+    max-width: 50px;
+  }
+}
